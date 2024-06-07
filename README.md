@@ -4,7 +4,7 @@
 
 
 ### Project 1: Coffee Bean Classification
----
+- - -
 Description:
 This project involves developing a machine learning model to classify coffee beans based on their country of origin. The dataset includes various features such as taste, aroma, production year, farm name, and bean variety. The key challenge was to preprocess the data effectively to handle missing values and diverse data types. After preprocessing, the data was used to train and evaluate different machine learning models to achieve accurate classification.
 
